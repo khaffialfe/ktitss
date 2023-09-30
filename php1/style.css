@@ -1,0 +1,36 @@
+/* Стиль для всей формы */
+form {
+    width: 400px;
+    margin: auto;
+    border: 1px solid #ccc;
+    padding: 20px;
+  }
+  
+  /* Стиль для заголовка формы */
+  h1 {
+    text-align: center;
+  }
+  
+  /* Стиль для меток полей */
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  /* Стиль для полей ввода */
+  input {
+    width: 100%;
+    padding: 10px;
+  }
+  
+  /* Стиль для кнопки отправки */
+  button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+  }
+  
+  /* Стиль для сообщения об ошибке или успехе */
+  p {
+    color: red;
+  }
